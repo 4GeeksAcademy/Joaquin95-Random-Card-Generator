@@ -9,6 +9,8 @@
   border: 1px solid black;
   border-radius: 5px;
   margin-top: 15%;
+  text-align: center;
+  padd;
 }
 body {
   background: green;
@@ -17,4 +19,16 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.top-suit {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 80px;
+}
+.bottom-suit {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-size: 80px;
 }
