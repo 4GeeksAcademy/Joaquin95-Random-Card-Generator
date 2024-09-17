@@ -6,11 +6,11 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 0;
+  margin-top: 150px;
 }
 .card {
-  width: 150px;
-  height: 200px;
+  width: 250px;
+  height: 300px;
   border: 2px solid black;
   border-radius: 10px;
   background-color: white;
